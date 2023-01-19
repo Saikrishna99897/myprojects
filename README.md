@@ -24,3 +24,6 @@ Acceptance criteria
 Welcome message should be as given in the Details section.
 
 Use of functional component.
+
+
+![scrnli_1_19_2023_6-00-46 PM](https://user-images.githubusercontent.com/123074514/213444279-f8d58072-da1b-4a08-9248-869264057ecf.gif)
